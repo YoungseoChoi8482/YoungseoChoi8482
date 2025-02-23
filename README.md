@@ -1,4 +1,4 @@
-## Hi there 👋
+##  👋
 
 <!--
 **YoungseoChoi8482/YoungseoChoi8482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cys8482)](https://solved.ac/cys8482/)
+
